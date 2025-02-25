@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/serialize.dir/serialize.cpp.o -o serialize  -lpthread
